@@ -91,7 +91,7 @@ Every prime above 5 has to end in 1, 3, 7, or 9. Any other last digit means it's
 ## Potential practical applications
 For educational and self-practice purposes only:
   * Fast recognition drilling of primes from 1 to 100 for students, teachers, or anyone brushing up on number theory basics.
-  * A lightweight, no-setup companion tool for CFA/math/competitive-exam candidates who want automatic mental-math primes reflexes.
+  * A lightweight companion tool for exams and tests relying on prime number quick recognition (GRE, GMAT,...)
   * Streak-based gamification of a rote memorization task, to make repetition less tedious.
 
 ## FAQ
