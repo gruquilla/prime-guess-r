@@ -40,10 +40,10 @@ The main features include: <br />
 
 ## Quick preview
 Example of the main menu:
-![alt text](https://github.com/gruquilla/PrimeGuessR/blob/main/media/menupreview.jpg "Prime Guess-R main menu")
+![alt text](https://github.com/gruquilla/prime-guess-r/blob/main/menuprimeguessr.png)
 
 Example of a Batch Mode round in progress:
-![alt text](https://github.com/gruquilla/PrimeGuessR/blob/main/media/gamepreview.jpg "Prime Guess-R gameplay")
+![alt text](https://github.com/gruquilla/prime-guess-r/blob/main/ex2.png)
 
 ## The project in detail
 Here is how Prime Guess-R works:
