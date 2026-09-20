@@ -1,7 +1,7 @@
 ![alt text](https://github.com/gruquilla/prime-guess-r/blob/main/primeguessrlogo.jpg)
 <br />
 <br />
-An interactive Jupyter widget game to learn and drill the primes from 1 to 100, using a batch-based memorization system. CC BY-NC-SA.<br />
+An interactive Jupyter widget game to learn and drill the primes from 1 to 100, using a batch-based memorisation system. CC BY-NC-SA.<br />
 <br />
 Access the Prime Guess-R Notebook: <br />
 [Open Version 1.0](https://github.com/gruquilla/prime-guess-r/blob/main/PrimeGuess-r%20Game.ipynb)
@@ -22,7 +22,7 @@ Information: Prime Guess-R runs entirely in a Jupyter notebook using `ipywidgets
 - [Limitations and planned developments](#limitations-and-planned-developments)
 
 ## What is Prime Guess-R?
-Prime Guess-R is a small research/teaching side-project built with Python and `ipywidgets` that turns the memorization of primes from 1 to 100 into a timed guessing game.<br />
+Prime Guess-R is a small research/teaching side-project built with Python and `ipywidgets` that turns the memorisation of primes from 1 to 100 into a timed guessing game.<br />
 The main challenge was to make prime recognition fast and intuitive rather than purely rote, by grouping the primes into four color-coded "batches" that each follow a distinct digit pattern. Instead of memorizing 25 numbers in one block, the learner progresses batch by batch, reinforcing each pattern with dedicated practice before mixing everything together in Global Mode.<br />
 <br />
 The main features include: <br />
