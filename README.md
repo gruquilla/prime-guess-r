@@ -1,4 +1,4 @@
-![alt text](https://github.com/gruquilla/PrimeGuessR/blob/main/media/primeguessrshowcase.jpg "Logo")
+![alt text](https://github.com/gruquilla/PrimeGuessR/blob/main/media/primeguessrlogo.jpg "Logo")
 An interactive Jupyter widget game to learn and drill the primes from 1 to 100, using a batch-based memorization system. CC BY-NC-SA.<br />
 <br />
 Access the Prime Guess-R Notebook: <br />
