@@ -43,6 +43,8 @@ Example of the main menu:
 ![alt text](https://github.com/gruquilla/prime-guess-r/blob/main/menuprimeguessr.png)
 
 Example of a Batch Mode round in progress:
+![alt text](https://github.com/gruquilla/prime-guess-r/blob/main/timer.png)
+
 ![alt text](https://github.com/gruquilla/prime-guess-r/blob/main/ex2.png)
 
 ## The project in detail
