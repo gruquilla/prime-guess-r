@@ -2,7 +2,7 @@
 An interactive Jupyter widget game to learn and drill the primes from 1 to 100, using a batch-based memorization system. CC BY-NC-SA.<br />
 <br />
 Access the Prime Guess-R Notebook: <br />
-[Open Version 1.0]([https://github.com/gruquilla/PrimeGuessR/blob/main/Jupyter%20Notebook%20files/Prime%20Guess-R%20V1.0](https://github.com/gruquilla/prime-guess-r/blob/main/PrimeGuess-r%20Game.ipynb))
+[Open Version 1.0](https://github.com/gruquilla/prime-guess-r/blob/main/PrimeGuess-r%20Game.ipynb)
 <br />
 Check requirements: <br />
 [requirements.txt](https://github.com/gruquilla/PrimeGuessR/blob/main/requirements.txt)
