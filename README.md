@@ -7,7 +7,7 @@ Access the Prime Guess-R Notebook: <br />
 [Open Version 1.0](https://github.com/gruquilla/prime-guess-r/blob/main/PrimeGuess-r%20Game.ipynb)
 <br />
 Check requirements: <br />
-[requirements.txt](https://github.com/gruquilla/PrimeGuessR/blob/main/requirements.txt)
+[requirements.txt](https://github.com/gruquilla/prime-guess-r/blob/main/requirements.txt)
 <br />
 Information: Prime Guess-R runs entirely in a Jupyter notebook using `ipywidgets`.
 
